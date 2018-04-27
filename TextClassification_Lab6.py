@@ -1,7 +1,7 @@
 import operator
 import nltk
 import time
-# nltk.download('punkt')        # download nltk requirements for first time
+nltk.download('punkt')        # download nltk requirements for first time
 from nltk.util import ngrams
 import collections
 import re
